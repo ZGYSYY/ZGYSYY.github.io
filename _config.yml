@@ -5,12 +5,14 @@
 
 # Site
 title: 我不是老司机
-subtitle: 量力而行，尽力而为
+subtitle: 来不及解释了，快上车！
 description: ZGYSYY, 我不是老司机, 后端开发, Java技术文章, Spring, SpringCloud, JVM调优, 程序员, 高并发编程, IT网站, 分布式, 中间件, 微服务, 个人技术博客
 author: ZGYSYY
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
+seo: true
+signature: 量力而行，尽力而为！
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
